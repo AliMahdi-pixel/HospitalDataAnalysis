@@ -1,0 +1,17 @@
+RAPPORT D'ANALYSE - DONNÉES HOSPITALIÈRES
+==================================================
+Date de l'analyse : 2025-10-26 07:42
+Nombre de patients analysés : 7
+Âge moyen : 51.6 ans
+Pression artérielle moyenne : 126.4
+Cholestérol moyen : 214.3
+
+RÉPARTITION PAR SEXE :
+- M : 4 patients
+- F : 3 patients
+
+DIAGNOSTICS :
+- Healthy : 3 patients (42.9%)
+- Hypertension : 2 patients (28.6%)
+- Diabetes : 1 patients (14.3%)
+- Heart Disease : 1 patients (14.3%)
